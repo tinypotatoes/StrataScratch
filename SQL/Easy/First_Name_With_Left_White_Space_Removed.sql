@@ -17,5 +17,5 @@ department    varchar
 
 */
 
-select LTRIM(first_name) as first_name_trimed
-from worker_ws;
+SELECT LTRIM(first_name) AS first_name_trimed
+FROM worker_ws;
