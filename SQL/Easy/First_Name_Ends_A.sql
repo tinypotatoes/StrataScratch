@@ -15,6 +15,6 @@ department     varchar
 
 */
 
-select * 
-from worker
-where worker.first_name LIKE '%a'
+SELECT * 
+FROM worker
+WHERE worker.first_name LIKE '%a'
