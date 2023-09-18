@@ -9,11 +9,11 @@ Write a query that returns binary description of rate type per loan_id. The resu
 
 Tables:
 (submissions)
-id				int
-balance			float
-interest_rate	float
-rate_type		varchar
-loan_id			int
+id                int
+balance           float
+interest_rate     float
+rate_type         varchar
+loan_id           int
 
 */
 
