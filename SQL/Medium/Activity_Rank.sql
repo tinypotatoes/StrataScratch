@@ -14,7 +14,7 @@ from_user  varchar
 to_user    varchar
 day        int
 
-/*
+*/
 
 SELECT 
     from_user AS user,
