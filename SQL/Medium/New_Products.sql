@@ -23,4 +23,4 @@ SELECT
         END) AS net_products
 FROM car_launches
 GROUP BY company_name
-ORDER BY net_products DESC
+ORDER BY net_products DESC;
